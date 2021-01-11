@@ -4,7 +4,6 @@ import nextId from 'react-id-generator';
 const Form = ({ setInputText, inputText, todos, setTodos }) => {
 
     const inputTextHandler = (e) => {
-        console.log(e.target.value);
         setInputText(e.target.value);
     }
 
