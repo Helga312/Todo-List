@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Todo-List/static/css/main.382fa52b.chunk.css",
+    "main.js": "/Todo-List/static/js/main.22c9d48d.chunk.js",
+    "main.js.map": "/Todo-List/static/js/main.22c9d48d.chunk.js.map",
+    "runtime-main.js": "/Todo-List/static/js/runtime-main.f9be2040.js",
+    "runtime-main.js.map": "/Todo-List/static/js/runtime-main.f9be2040.js.map",
+    "static/js/2.686ac39a.chunk.js": "/Todo-List/static/js/2.686ac39a.chunk.js",
+    "static/js/2.686ac39a.chunk.js.map": "/Todo-List/static/js/2.686ac39a.chunk.js.map",
+    "static/js/3.a93a6620.chunk.js": "/Todo-List/static/js/3.a93a6620.chunk.js",
+    "static/js/3.a93a6620.chunk.js.map": "/Todo-List/static/js/3.a93a6620.chunk.js.map",
+    "index.html": "/Todo-List/index.html",
+    "static/css/main.382fa52b.chunk.css.map": "/Todo-List/static/css/main.382fa52b.chunk.css.map",
+    "static/js/2.686ac39a.chunk.js.LICENSE.txt": "/Todo-List/static/js/2.686ac39a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Todo-List/static/media/marginalia-215.ab7c6aa5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9be2040.js",
+    "static/js/2.686ac39a.chunk.js",
+    "static/css/main.382fa52b.chunk.css",
+    "static/js/main.22c9d48d.chunk.js"
+  ]
+}
